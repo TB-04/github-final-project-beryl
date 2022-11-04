@@ -18,3 +18,5 @@ read t
 s=`expr $p \* $t \* $r / 100`    
 echo"The simple interest is: "
 echo$s
+_© 2022 XYZ, Inc._
+_© 2021 XYZ, Inc._
